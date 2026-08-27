@@ -1,0 +1,112 @@
+INFO  Validation UTC: 2026-08-27 09:33:57
+INFO  Compiler target: Open Watcom 2.0 Win32/Pentium -5s, native static runtime, PE 4.0
+PASS  wincd_pcm_debug.dll PE i386
+PASS  wincd_pcm_debug.dll OS/subsystem version 4.0
+PASS  wincd_pcm_debug.dll subsystem=2
+PASS  wincd_pcm_debug.dll DLL characteristic=True
+INFO  wincd_pcm_debug.dll SHA-256 b2bb644709f98ed47a9ab24e7dc80fd51d9da9812d94f0bf0c58ad1eb36001a6
+PASS  wincd_pcm_debug.dll imports only Win95 system DLLs: KERNEL32.DLL, USER32.DLL
+PASS  wincd_pcm_debug.dll export auxGetDevCapsA
+PASS  wincd_pcm_debug.dll export auxGetNumDevs
+PASS  wincd_pcm_debug.dll export auxGetVolume
+PASS  wincd_pcm_debug.dll export auxSetVolume
+PASS  wincd_pcm_debug.dll export joyGetDevCapsA
+PASS  wincd_pcm_debug.dll export joyGetNumDevs
+PASS  wincd_pcm_debug.dll export joyGetPos
+PASS  wincd_pcm_debug.dll export joyGetPosEx
+PASS  wincd_pcm_debug.dll export mciSendCommandA
+PASS  wincd_pcm_debug.dll export timeGetTime
+PASS  wincd_pcm_debug.dll has exactly ten named exports
+PASS  wincd_pcm_debug.dll authored objects and all reachable executable code pass Pentium/MMX ISA gate
+PASS  wincd_pcm.dll PE i386
+PASS  wincd_pcm.dll OS/subsystem version 4.0
+PASS  wincd_pcm.dll subsystem=2
+PASS  wincd_pcm.dll DLL characteristic=True
+INFO  wincd_pcm.dll SHA-256 799e72113fca8794e347a84f6c35117e2eba1c33c7df797a809e48aaf1d15cdb
+PASS  wincd_pcm.dll imports only Win95 system DLLs: KERNEL32.DLL, USER32.DLL
+PASS  wincd_pcm.dll export auxGetDevCapsA
+PASS  wincd_pcm.dll export auxGetNumDevs
+PASS  wincd_pcm.dll export auxGetVolume
+PASS  wincd_pcm.dll export auxSetVolume
+PASS  wincd_pcm.dll export joyGetDevCapsA
+PASS  wincd_pcm.dll export joyGetNumDevs
+PASS  wincd_pcm.dll export joyGetPos
+PASS  wincd_pcm.dll export joyGetPosEx
+PASS  wincd_pcm.dll export mciSendCommandA
+PASS  wincd_pcm.dll export timeGetTime
+PASS  wincd_pcm.dll has exactly ten named exports
+PASS  wincd_pcm.dll authored objects and all reachable executable code pass Pentium/MMX ISA gate
+PASS  DISC_TEST.EXE PE i386
+PASS  DISC_TEST.EXE OS/subsystem version 4.0
+PASS  DISC_TEST.EXE subsystem=3
+PASS  DISC_TEST.EXE DLL characteristic=False
+INFO  DISC_TEST.EXE SHA-256 c2d6db45aa8e7e68f374324a23d22fd6ffe2061a02475f7c7c616f8964f755b5
+PASS  DISC_TEST.EXE imports only Win95 system DLLs: KERNEL32.DLL, USER32.DLL
+PASS  DISC_TEST.EXE authored objects and all reachable executable code pass Pentium/MMX ISA gate
+PASS  manifest contains exactly 18 track rows
+PASS  Track12.wav PCM 22050 Hz stereo 16-bit frames=5596878
+PASS  Track12 manifest hash/rate/frame count
+PASS  Track12 source hash preserved
+PASS  Track13.wav PCM 22050 Hz stereo 16-bit frames=4219488
+PASS  Track13 manifest hash/rate/frame count
+PASS  Track13 source hash preserved
+PASS  Track14.wav PCM 22050 Hz stereo 16-bit frames=2898252
+PASS  Track14 manifest hash/rate/frame count
+PASS  Track14 source hash preserved
+PASS  Track15.wav PCM 22050 Hz stereo 16-bit frames=4762506
+PASS  Track15 manifest hash/rate/frame count
+PASS  Track15 source hash preserved
+PASS  Track16.wav PCM 22050 Hz stereo 16-bit frames=2732436
+PASS  Track16 manifest hash/rate/frame count
+PASS  Track16 source hash preserved
+PASS  Track17.wav PCM 22050 Hz stereo 16-bit frames=2745960
+PASS  Track17 manifest hash/rate/frame count
+PASS  Track17 source hash preserved
+PASS  Track18.wav PCM 22050 Hz stereo 16-bit frames=2881494
+PASS  Track18 manifest hash/rate/frame count
+PASS  Track18 source hash preserved
+PASS  Track22.wav PCM 22050 Hz stereo 16-bit frames=4288284
+PASS  Track22 manifest hash/rate/frame count
+PASS  Track22 source hash preserved
+PASS  Track23.wav PCM 22050 Hz stereo 16-bit frames=2797998
+PASS  Track23 manifest hash/rate/frame count
+PASS  Track23 source hash preserved
+PASS  Track24.wav PCM 22050 Hz stereo 16-bit frames=3262224
+PASS  Track24 manifest hash/rate/frame count
+PASS  Track24 source hash preserved
+PASS  Track25.wav PCM 22050 Hz stereo 16-bit frames=2703036
+PASS  Track25 manifest hash/rate/frame count
+PASS  Track25 source hash preserved
+PASS  Track26.wav PCM 22050 Hz stereo 16-bit frames=3321906
+PASS  Track26 manifest hash/rate/frame count
+PASS  Track26 source hash preserved
+PASS  Track27.wav PCM 22050 Hz stereo 16-bit frames=2693040
+PASS  Track27 manifest hash/rate/frame count
+PASS  Track27 source hash preserved
+PASS  Track28.wav PCM 22050 Hz stereo 16-bit frames=2804760
+PASS  Track28 manifest hash/rate/frame count
+PASS  Track28 source hash preserved
+PASS  Track29.wav PCM 22050 Hz stereo 16-bit frames=2541042
+PASS  Track29 manifest hash/rate/frame count
+PASS  Track29 source hash preserved
+PASS  Track30.wav PCM 22050 Hz stereo 16-bit frames=3994284
+PASS  Track30 manifest hash/rate/frame count
+PASS  Track30 source hash preserved
+PASS  Track31.wav PCM 22050 Hz stereo 16-bit frames=2940588
+PASS  Track31 manifest hash/rate/frame count
+PASS  Track31 source hash preserved
+PASS  Track32.wav PCM 22050 Hz stereo 16-bit frames=3062010
+PASS  Track32 manifest hash/rate/frame count
+PASS  Track32 source hash preserved
+PASS  no Track19.wav placeholder
+PASS  no Track20.wav placeholder
+PASS  no Track21.wav placeholder
+PASS  total PCM data bytes=240984744
+PASS  PREPARE.BAT uses CRLF only
+PASS  SELECT_DEBUG.BAT uses CRLF only
+PASS  SELECT_QUIET.BAT uses CRLF only
+PASS  RESTORE.BAT uses CRLF only
+PASS  COLLECT_LOGS.BAT uses CRLF only
+PASS  DEPLOY.TXT uses CRLF only
+PASS  TEST_GUIDE.TXT uses CRLF only
+PASS  ALL REQUESTED VALIDATION GATES PASSED
